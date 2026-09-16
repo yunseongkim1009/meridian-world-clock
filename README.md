@@ -14,7 +14,7 @@ Four clock styles, 44 cities, live day/night skies, a meeting planner, and a ful
   <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-b892ff?style=for-the-badge" />
 </p>
 
-<h3><a href="https://yunseongkim1009.github.io/meridian-world-clock/">▶ Live demo</a></h3>
+<h3><a href="https://meridian-world-clock-six.vercel.app/">▶ Live demo</a></h3>
 
 <a href="#-quick-start"><b>Quick start</b></a> ·
 <a href="#-features"><b>Features</b></a> ·
